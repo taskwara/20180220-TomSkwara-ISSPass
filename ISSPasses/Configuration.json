@@ -1,0 +1,11 @@
+{
+  "LocationModule": {
+    "AutoRefresh": false,
+    "RefreshInterval": 30
+  },
+  "ServicesModule": {
+    "BaseURL": "http://api.open-notify.org",
+    "PassesPath": "/iss-pass.json",
+    "PassCount": 15
+  }
+}
